@@ -2,6 +2,8 @@
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tbody>
+<tr><td>PaddleOCR-3.4.0官方源码包</td><td><a href="https://mbd.pub/o/bread/YZWblJttag==">下载</a></td></tr>
+<tr><td>PaddleOCR-3.3.3官方源码包</td><td><a href="https://mbd.pub/o/bread/YZWblJttaQ==">下载</a></td></tr>
 <tr><td>PaddleOCR-3.3.2官方源码包</td><td><a href="https://mbd.pub/o/bread/YZWZmZ5qaQ==">下载</a></td></tr>
 <tr><td>PaddleOCR-3.3.1官方源码包</td><td><a href="https://mbd.pub/o/bread/YZWZmZ5qag==">下载</a></td></tr>
 <tr><td>PaddleOCR-3.3.0官方源码包</td><td><a href="https://mbd.pub/o/bread/YZWYmJdvbA==">下载</a></td></tr>
@@ -27,3 +29,4 @@
 <tr><td>PaddleOCR-2.5.0官方源码包</td><td><a href="https://mbd.pub/o/bread/Zp6al55s">下载</a></td></tr>
 </tbody>
 </table>
+
